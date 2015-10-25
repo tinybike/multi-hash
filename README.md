@@ -5,6 +5,8 @@ Multi-hash
 [![Coverage Status](https://coveralls.io/repos/tinybike/multi-hash/badge.svg?branch=master&service=github)](https://coveralls.io/github/tinybike/multi-hash?branch=master)
 [![npm version](https://badge.fury.io/js/multi-hash.svg)](http://badge.fury.io/js/multi-hash)
 
+Multi-hash encoder/decoder.
+
 Usage
 -----
 ```
