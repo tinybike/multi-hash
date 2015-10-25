@@ -12,7 +12,11 @@
     "url": "git+https://github.com/tinybike/multi-hash.git"
   },
   "keywords": [
-    "IPFS", "hex", "hexadecimal", "base58", "sha256"
+    "IPFS",
+    "hex",
+    "hexadecimal",
+    "base58",
+    "sha256"
   ],
   "author": "Jack Peterson <jack@tinybike.net>",
   "license": "MIT",
@@ -30,6 +34,7 @@
     "del": "^2.0.2",
     "gulp": "^3.9.0",
     "istanbul": "^0.4.0",
+    "jshint": "^2.8.0",
     "mocha": "^2.3.3",
     "uglify-js": "^2.5.0"
   }
