@@ -58,6 +58,7 @@ describe("decode", function () {
             expected: ipfsHex[i].replace("0x", "")
         });
         test_throws({ input: ipfsHashes[i].slice(1) });
+        test_throws({ input: ipfsHashes[i].slice(0, ipfsHashes[i].length-1) });
         test_throws({ input: parseInt(ipfsHashes[i]) });
     }
 
